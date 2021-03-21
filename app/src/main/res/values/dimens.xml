@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">140dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="base_card_view_content_padding">2dp</dimen>
+    <dimen name="book_tile_card_view_elevation">4dp</dimen>
+    <dimen name="fixed_label_inactive" tools:override="true">9sp</dimen>
+    <dimen name="fixed_label_active" tools:override="true">9sp</dimen>
+    <dimen name="custom_kitap_width">125dp</dimen>
+    <dimen name="custom_kitap_height">150dp</dimen>
+    <dimen name="custom_kitap_width_new">110dp</dimen>
+    <dimen name="custom_kitap_height_new">125dp</dimen>
+    <dimen name="cardview_width2">180dp</dimen>
+    <dimen name="cardview_height2">110dp</dimen>
+    <dimen name="cardview_width">200dp</dimen>
+    <dimen name="cardview_height">110dp</dimen>
+    <dimen name="custom_category_width">90dp</dimen>
+    <dimen name="custom_category_height">80dp</dimen>
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+
+    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="emoji_icon_size">28sp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="custom_kitap_width">150dp</dimen>
+    <dimen name="custom_kitap_height">180dp</dimen>
+    <dimen name="custom_kitap_width_new">100dp</dimen>
+    <dimen name="custom_kitap_height_new">145dp</dimen>
+    <dimen name="fixed_label_inactive" tools:override="true">14sp</dimen>
+    <dimen name="fixed_label_active" tools:override="true">14sp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bottom_app">#000000</color>
+    <color name="bottom_bar">#99E3DADA</color>
+    <color name="nav_color">#000000</color>
+    <color name="tab_color">#D3FFFFFF</color>
+    <color name="tab_selected_color">#99E3DADA</color>
+    <color name="tumunu_gor">#99E3DADA</color>
+    <color name="kahverengi_yorum_arka">#000000</color>
+    <color name="kahverengi_arka">#000000</color>
+    <color name="search_background">#B6B6B6</color>
+    <color name="turuncu">#ECD2AC</color>
+    <color name="kahverengi_comment">#FFFFFF</color>
+    <color name="colorSplash">#000000</color>
+    <color name="gray_profile">#000000</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BookStoreClient</string>
+    <string name="update">Update</string>
+    <string name="populerKitaplar">Popüler Kitaplar</string>
+    <string name="tumunuGor">Tümünü Gör</string>
+    <string name="kategoriler">Kategoriler</string>
+    <string name="enCokOkunanlar">En Çok Okunanlar</string>
+    <string name="populerListeler">Popüler Listeler</string>
+    <string name="roman_oyku">Roman-Öykü</string>
+    <string name="bilimkurgu">Bilimkurgu</string>
+    <string name="edebiyat">Edebiyat</string>
+    <string name="polisiye">Polisiye</string>
+    <string name="macera">Macera</string>
+    <string name="psikoloji">Psikoloji</string>
+    <string name="politik">Politik</string>
+    <string name="fantastik">Fantastik</string>
+    <string name="a_k">Aşk</string>
+    <string name="tarih">Tarih</string>
+    <string name="dini">Dini</string>
+    <string name="gezi">Gezi</string>
+    <string name="gerilim_korku">Gerilim-Korku</string>
+    <string name="ocuk">Çocuk</string>
+    <string name="kisisel_gelisim">Kişisel Gelişim</string>
+    <string name="mizah">Mizah</string>
+    <string name="siir">Şiir</string>
+    <string name="felsefe">Felsefe</string>
+    <string name="biyografi">Biyografi</string>
+    <string name="mitoloji">Mitoloji</string>
+    <string name="kategori">Kategori:</string>
+    <string name="bilim">Bilim</string>
+    <string name="sosyoloji">Sosyoloji</string>
+    <string name="ozet">Özet</string>
+    <string name="dahaFazla">Daha fazla</string>
+    <string name="yorumlar">Yorumlar</string>
+    <string name="tumuYorumYap">Tümü/Yorum yap</string>
+    <string name="yazarinDigerKitaplari">Yazarın diğer kitapları</string>
+    <string name="tumu">Tümü</string>
+    <string name="Yükleniyor">Yükleniyor</string>
+
+</resources>
